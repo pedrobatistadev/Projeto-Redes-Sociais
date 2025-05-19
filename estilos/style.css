@@ -43,4 +43,23 @@ section#iphone > iframe {
     width: 266px;
 }
 
+section#botoes {
+    text-align: right;
+}
+
+section#botoes img {
+    width: 70px;
+    margin: 10px;
+    border-radius: 50%;
+    box-shadow: 5px 5px 10px black;
+    box-sizing: border-box;
+}
+
+section#botoes img:hover {
+    border: 2px solid white;
+    transform: translate(-5%, -5%);
+}
+
+
+
 
