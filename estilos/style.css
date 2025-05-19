@@ -58,6 +58,7 @@ section#botoes img {
 section#botoes img:hover {
     border: 2px solid white;
     transform: translate(-5%, -5%);
+    transition: transform 0.4s;
 }
 
 
